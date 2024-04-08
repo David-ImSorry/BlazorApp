@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2k6VxY62oyZsMKy0vriAWThJmRCkp9vvdPXPnA5QN+Y=",
+  "Hash": "pg7bffwMMh8WKCw4y8eVbcbIKV5XNUbzTcDNuvR6jCU=",
   "Source": "BlazorApp1",
   "BasePath": "/",
   "Mode": "Root",
@@ -7881,6 +7881,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\Usuario\\source\\repos\\LabScript\\BlazorApp1\\wwwroot\\Home.js",
+      "SourceId": "BlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuario\\source\\repos\\LabScript\\BlazorApp1\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "Home.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Home.js"
     },
     {
       "Identity": "C:\\Users\\Usuario\\source\\repos\\LabScript\\BlazorApp1\\wwwroot\\icon-192.png",

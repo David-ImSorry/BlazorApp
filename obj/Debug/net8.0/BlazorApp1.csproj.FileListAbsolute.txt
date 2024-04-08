@@ -1029,3 +1029,4 @@ C:\Users\Usuario\source\repos\LabScript\BlazorApp1\obj\Debug\net8.0\BlazorApp1.d
 C:\Users\Usuario\source\repos\LabScript\BlazorApp1\obj\Debug\net8.0\refint\BlazorApp1.dll
 C:\Users\Usuario\source\repos\LabScript\BlazorApp1\obj\Debug\net8.0\BlazorApp1.pdb
 C:\Users\Usuario\source\repos\LabScript\BlazorApp1\obj\Debug\net8.0\ref\BlazorApp1.dll
+C:\Users\Usuario\source\repos\LabScript\BlazorApp1\obj\Debug\net8.0\BlazorApp1.sourcelink.json
