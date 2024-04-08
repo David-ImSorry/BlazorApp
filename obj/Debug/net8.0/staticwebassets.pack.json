@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\Usuario\\source\\repos\\LabScript\\BlazorApp1\\Pages\\Counter.razor.js",
+      "PackagePath": "staticwebassets\\Pages\\Counter.razor.js"
+    },
+    {
       "Id": "C:\\Users\\Usuario\\source\\repos\\LabScript\\BlazorApp1\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
